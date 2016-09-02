@@ -1,0 +1,7 @@
+# URL para Repositorio Local de Ubuntu Xenial ------------------------------------- #
+deb http://172.31.50.10/ubuntu xenial main restricted universe multiverse
+deb http://172.31.50.10/ubuntu xenial-backports main restricted universe multiverse
+deb http://172.31.50.10/ubuntu xenial-proposed main restricted universe multiverse
+deb http://172.31.50.10/ubuntu xenial-security main restricted universe multiverse
+deb http://172.31.50.10/ubuntu xenial-update main restricted universe multiverse
+#----- FIN DEL REPO -- BY @sadhtux ------------------------------------------------ #
